@@ -1,0 +1,20 @@
+[
+  {
+    "category": "technical",
+    "priority": "high",
+    "ml_priority": "high",
+    "text": "URGENT: system down"
+  },
+  {
+    "category": "billing",
+    "priority": "high",
+    "ml_priority": "high",
+    "text": "charged twice refund please"
+  },
+  {
+    "category": "feature_request",
+    "priority": "medium",
+    "ml_priority": "medium",
+    "text": "add dark mode feature"
+  }
+]
